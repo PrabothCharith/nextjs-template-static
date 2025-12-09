@@ -4,7 +4,7 @@ A powerful, production-ready starter template for building static websites and w
 
 This template is designed to give you a modern foundation with essential tools pre-configured, while remaining lightweight and easy to customize. It is perfect for landing pages, blogs, portfolios, and dashboards that don't require complex backend integration out of the box.
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Project Structure & Examples](#-project-structure--examples)
@@ -14,7 +14,7 @@ This template is designed to give you a modern foundation with essential tools p
 - [Scripts](#-scripts)
 - [License](#-license)
 
-## 🚀 Features
+## Features
 
 - **Next.js 15 (App Router)**: The latest features from Next.js for server-side rendering and static generation.
 - **Tailwind CSS 4**: The newest version of the utility-first CSS framework.
@@ -25,7 +25,7 @@ This template is designed to give you a modern foundation with essential tools p
 - **TypeScript**: Fully typed for better developer experience.
 - **Turbopack**: Fast local development.
 
-## 📂 Project Structure & Examples
+## Project Structure & Examples
 
 The project is structured to help you get started quickly. Here are the key files and examples included:
 
@@ -42,7 +42,7 @@ The project is structured to help you get started quickly. Here are the key file
 
 - `src/components/ui/drawer.tsx`: An example of a Shadcn/ui component manually added to the project. You can edit this file to customize the drawer or remove it if unused.
 
-## 🛠 Getting Started
+## Getting Started
 
 ### 1. Installation
 
@@ -62,7 +62,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to see the app.
 
-## 🧹 Cleanup Guide
+## Cleanup Guide
 
 This template comes with example code to show off the features (Theme toggle, Drawer, State). You probably want to start fresh for your own project.
 
@@ -91,7 +91,7 @@ If you prefer to do it manually:
 3. Remove unused imports (Drawer, Framer Motion examples, etc.).
 4. Delete `src/components/ui/drawer.tsx` if you don't plan to use it.
 
-## 🧩 Adding Components
+## Adding Components
 
 ### HeroUI
 
@@ -112,7 +112,7 @@ This template is configured for Shadcn. To add new components:
 3. Create a new file in `src/components/ui/`.
 4. Import it into your app.
 
-## 📜 Scripts
+## Scripts
 
 | Script | Description |
 
@@ -124,6 +124,6 @@ This template is configured for Shadcn. To add new components:
 | `npm run lint` | Run ESLint |
 | `npm run cleanup` | **Reset project to clean slate** |
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).

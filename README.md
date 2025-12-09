@@ -4,6 +4,16 @@ A powerful, production-ready starter template for building static websites and w
 
 This template is designed to give you a modern foundation with essential tools pre-configured, while remaining lightweight and easy to customize. It is perfect for landing pages, blogs, portfolios, and dashboards that don't require complex backend integration out of the box.
 
+## 📖 Table of Contents
+
+- [Features](#-features)
+- [Project Structure & Examples](#-project-structure--examples)
+- [Getting Started](#-getting-started)
+- [Cleanup Guide](#-cleanup-guide)
+- [Adding Components](#-adding-components)
+- [Scripts](#-scripts)
+- [License](#-license)
+
 ## 🚀 Features
 
 - **Next.js 15 (App Router)**: The latest features from Next.js for server-side rendering and static generation.

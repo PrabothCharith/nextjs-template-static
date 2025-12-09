@@ -4,7 +4,7 @@ A modern, feature-rich starter template for Next.js projects using the App Route
 
 ## Features
 
-- **Next.js 15** with App Router and TypeScript
+- **Next.js 16** with App Router and TypeScript
 - **Tailwind CSS 4** for modern styling
 - **HeroUI** component library with dark/light theme support
 - **Shadcn/ui** drawer component integration
@@ -35,7 +35,7 @@ src/
 
 ### Core Framework
 
-- **[Next.js 15](https://nextjs.org/)** - React framework with App Router
+- **[Next.js 16](https://nextjs.org/)** - React framework with App Router
 - **[React 19](https://react.dev/)** - UI library
 - **[TypeScript](https://www.typescriptlang.org/)** - Type safety
 
